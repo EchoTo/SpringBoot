@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: SpringBoot_02_yaml
+
+server:
+  port: 8080
+
+country: china
+
+user1:
+  name: jack
+  age: 23
+
+likes:
+  - game
+  - music
+  - sleep
+
+baseDir: c:\win10
+
+#使用${属性名}引用数据
+tempDir: ${baseDir}\temp
+
+datasource:
+  driver: com.mysql.cj.jdbc.Driver
+  url: jdbc:mysql//localhost/spring_db
+  username: root
+  password: root
