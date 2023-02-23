@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: com.priv.SpringBoot04MybatisApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 4.883 s <<< FAILURE! - in com.priv.SpringBoot04MybatisApplicationTests
+contextLoads  Time elapsed: 2.108 s  <<< ERROR!
+org.springframework.jdbc.BadSqlGrammarException: 
+
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '}' at line 1
+### The error may exist in com/priv/dao/BookDao.java (best guess)
+### The error may involve com.priv.dao.BookDao.getById-Inline
+### The error occurred while setting parameters
+### SQL: select * from tbl_book where id = ?}
+### Cause: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '}' at line 1
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '}' at line 1
+	at com.priv.SpringBoot04MybatisApplicationTests.contextLoads(SpringBoot04MybatisApplicationTests.java:17)
+Caused by: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '}' at line 1
+	at com.priv.SpringBoot04MybatisApplicationTests.contextLoads(SpringBoot04MybatisApplicationTests.java:17)
+

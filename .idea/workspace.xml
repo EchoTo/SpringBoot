@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a8b6668-8e85-4342-8847-4e6bc7564fcd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven/apache-maven-3.6.0" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JZiPKmDIACwqRjEAc6oV4s7yr4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "D:/IdeaProjects/SpringBoot",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "spring.configuration.checksum": "39b4253d5855d955ed6079163685f34f"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\SpringBoot\SpringBoot_07_ssmp\src\main\resources\static" />
+      <recent name="D:\IdeaProjects\SpringBoot\SpringBoot_06_druid\src\main\java\com\priv" />
+      <recent name="D:\IdeaProjects\SpringBoot\SpringBoot_06_druid\src\main\resources" />
+      <recent name="D:\IdeaProjects\SpringBoot\SpringBoot_05_mybatis_plus\src\main\java\com\priv" />
+      <recent name="D:\IdeaProjects\SpringBoot\SpringBoot_05_mybatis_plus\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.priv.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBoot10LogApplication">
+    <configuration name="BookServiceTestCase.testDelete" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="SpringBoot_07_ssmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.priv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.priv" />
+      <option name="MAIN_CLASS_NAME" value="com.priv.BookServiceTestCase" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookServiceTestCase.testGetAll" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="SpringBoot_07_ssmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.priv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.priv" />
+      <option name="MAIN_CLASS_NAME" value="com.priv.BookServiceTestCase" />
+      <option name="METHOD_NAME" value="testGetAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookServiceTestCase.testGetPage" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="SpringBoot_07_ssmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.priv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.priv" />
+      <option name="MAIN_CLASS_NAME" value="com.priv.BookServiceTestCase" />
+      <option name="METHOD_NAME" value="testGetPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookServiceTestCase.testUpdate" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="SpringBoot_07_ssmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.priv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.priv" />
+      <option name="MAIN_CLASS_NAME" value="com.priv.BookServiceTestCase" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot03JunitApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="SpringBoot_03_junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.priv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.priv" />
+      <option name="MAIN_CLASS_NAME" value="com.priv.SpringBoot03JunitApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot04MybatisApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="SpringBoot_04_mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.priv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.priv" />
+      <option name="MAIN_CLASS_NAME" value="com.priv.SpringBoot04MybatisApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot07SsmpApplicationTests" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="SpringBoot_07_ssmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.priv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.priv" />
+      <option name="MAIN_CLASS_NAME" value="com.priv.SpringBoot07SsmpApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot0101QuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_01_01_quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.priv.SpringBoot0101QuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot02YamlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_02_yaml" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.priv.SpringBoot02YamlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot03JunitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_03_junit" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.priv.SpringBoot03JunitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot04MybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_04_mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.priv.SpringBoot04MybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot05MybatisPlusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_05_mybatis_plus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.priv.SpringBoot05MybatisPlusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot06DruidApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_06_druid" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.priv.SpringBoot06DruidApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot07SsmpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_07_ssmp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.priv.SpringBoot07SsmpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot08ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_08_config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.priv.SpringBoot08ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot09ProfilesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_09_profiles" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.priv.SpringBoot09ProfilesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot10LogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot_10_log" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.priv.SpringBoot10LogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a8b6668-8e85-4342-8847-4e6bc7564fcd" name="Changes" comment="" />
+      <created>1672291983440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672291983440</updated>
+      <workItem from="1672291985106" duration="1601000" />
+      <workItem from="1672394844896" duration="3794000" />
+      <workItem from="1672464390113" duration="5123000" />
+      <workItem from="1672711550137" duration="32000" />
+      <workItem from="1672982394909" duration="4581000" />
+      <workItem from="1673065741804" duration="24000" />
+      <workItem from="1673659479163" duration="5068000" />
+      <workItem from="1673843066407" duration="6258000" />
+      <workItem from="1674019166122" duration="5227000" />
+      <workItem from="1674100361906" duration="432000" />
+      <workItem from="1674700755321" duration="31000" />
+      <workItem from="1674984321816" duration="67000" />
+      <workItem from="1675222243954" duration="899000" />
+      <workItem from="1675828655656" duration="5000" />
+      <workItem from="1675839174812" duration="12000" />
+      <workItem from="1676962140878" duration="661000" />
+      <workItem from="1676962819416" duration="765000" />
+      <workItem from="1676963904244" duration="84000" />
+      <workItem from="1676964019367" duration="2217000" />
+      <workItem from="1677023607439" duration="3289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

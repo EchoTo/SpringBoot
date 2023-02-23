@@ -1,0 +1,3 @@
+com\priv\SpringBoot04MybatisApplication.class
+com\priv\domain\Book.class
+com\priv\dao\BookDao.class
